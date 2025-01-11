@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Calculadora.tests
+namespace Calculadora.testes
 {
     public class CalculadoraTests
     {
